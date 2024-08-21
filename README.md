@@ -1,4 +1,3 @@
-[![MasterHead](https://i.pinimg.com/originals/6f/2b/1a/6f2b1a25100fbde63c611561317a6ef2.gif)](https://example.com)
   <h1 align="center">Hi 👋, I'm Esmer</h1>
   <h3 align="center">A front-end developer from Mars</h3>
   <img align="right" width="400" src="https://i.pinimg.com/originals/f0/f0/d9/f0f0d932d6e39c7af5aa305cbd8da735.gif" alt="coding">
