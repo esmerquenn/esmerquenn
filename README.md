@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Vue.js, React Native**
 
-- 💬 Ask me about **React, Redux Toolkit, vanilla JS**
+- 💬 Ask me about **React, Redux Toolkit, Vanilla JS , GSAP**
 
 - 📫 How to reach me **esmereshraty@gmail.com**
 - See my <a href="https://mi-portafolio-pi-five.vercel.app/" target="blank"> ⚡ Portfolio ⚡</a>
