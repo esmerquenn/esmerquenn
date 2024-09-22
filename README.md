@@ -10,6 +10,7 @@
 - 💬 Ask me about **React, Redux Toolkit, vanilla JS**
 
 - 📫 How to reach me **esmereshraty@gmail.com**
+- See my <a href="https://mi-portafolio-pi-five.vercel.app/" target="blank"> portfolio</a>
 
 - ⚡ Fun fact **I know some java but i can speak**
 
