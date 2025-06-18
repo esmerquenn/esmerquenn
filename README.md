@@ -12,7 +12,7 @@
 - 📫 How to reach me **esmereshraty@gmail.com**
 - See my <a href="https://mi-portafolio-pi-five.vercel.app/" target="blank"> ⚡ Portfolio ⚡</a>
 
-- ⚡ Fun fact **I know some java but i can speak**
+- ⚡ Fun fact **I know some java but i can't speak**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
