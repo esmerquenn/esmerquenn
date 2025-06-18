@@ -3,11 +3,11 @@
   <img align="right" width="400" src="https://i.pinimg.com/originals/f0/f0/d9/f0f0d932d6e39c7af5aa305cbd8da735.gif" alt="coding">
 
 
-- 🔭 I’m currently working **freelance projects**
+- 🔭 I’m currently working at **INI.**
 
-- 🌱 I’m currently learning **Vue.js, React Native**
+- 🌱 I’m currently learning **YII**
 
-- 💬 Ask me about **React, Redux Toolkit, Vanilla JS , GSAP**
+- 💬 Ask me about **React, Redux Toolkit, Vanilla JS , GSAP, PHP, Laravel and all the other stuff about fullstack development**
 
 - 📫 How to reach me **esmereshraty@gmail.com**
 - See my <a href="https://mi-portafolio-pi-five.vercel.app/" target="blank"> ⚡ Portfolio ⚡</a>
