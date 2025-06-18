@@ -1,5 +1,5 @@
   <h1 align="center">Hi 👋, I'm Esmer</h1>
-  <h3 align="center">A front-end developer from Mars</h3>
+  <h3 align="center">A fullstack developer from Mars</h3>
   <img align="right" width="400" src="https://i.pinimg.com/originals/f0/f0/d9/f0f0d932d6e39c7af5aa305cbd8da735.gif" alt="coding">
 
 
